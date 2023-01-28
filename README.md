@@ -5,4 +5,5 @@
 - 📫 How to reach me: sent me an email (see contact info) or a message on LinkedIn (rustam-sagaddinov)
 
 ### My stacks
-- **JavaScript**
+- **JavaScript** - **HTML** - **CSS** - **Adaptive Layout**
+- **React** - **BEM** - **Webpack** - **Redux** - **Node.js** - **TypeScript**
