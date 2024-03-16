@@ -6,7 +6,7 @@
 
 ### My stacks
 
-- **JavaScript** - **HTML** - **CSS** - **Adaptive Layout**
+- **JavaScript** -**C** - **HTML** - **CSS** - **Adaptive Layout**
 - **React** - **BEM** - **Webpack** - **Redux** - **Node.js** - **TypeScript**
 
 ### For the near future
