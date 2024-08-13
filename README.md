@@ -1,6 +1,6 @@
-### Junior Frontend Developer 
+### Student at UTN National Technological University
 
-- 🔭 I’m currently working in a huge retail company as a Project manager;
+- 🔭 I’m a student of Technical University in Programming at UTN MDP;
 - 🤔 I’m looking for opportunities to grow in the field of web development;
 - 📫 How to reach me: sent me a message on LinkedIn: [Rustam Sagaddinov](https://www.linkedin.com/in/rustam-sagaddinov);
 
