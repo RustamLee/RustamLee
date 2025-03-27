@@ -1,14 +1,9 @@
-### Student at UTN National Technological University
+### Java dedeloper
 
-- 🔭 I’m a student of Technical University in Programming at UTN MDP;
 - 🤔 I’m looking for opportunities to grow in the field of web development;
 - 📫 How to reach me: sent me a message on LinkedIn: [Rustam Sagaddinov](https://www.linkedin.com/in/rustam-sagaddinov);
 
 ### My stacks
 
-- **JavaScript** -**C** - **HTML** - **CSS** - **Adaptive Layout**
-- **Vue** - **BEM** - **Webpack** - **Redux** - **Node.js** - **TypeScript**
+- **Java** -**Spring Boot** - **SQL** - **CSS**
 
-### For the near future
-
-- Read "Clean Code" from Rober C. Martin
