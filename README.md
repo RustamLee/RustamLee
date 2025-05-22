@@ -16,7 +16,3 @@ My experience in business analysis and frontend development helps me align techn
 🌐 **Portfolio:** [rustamlee.github.io/portfolio](https://rustamlee.github.io/portfolio)
 
 ---
-
-### 📊 GitHub Stats
-
-![Rustam's GitHub stats](https://github-readme-stats.vercel.app/api?username=RustamLee&show_icons=true&theme=blue-green)
