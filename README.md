@@ -12,6 +12,6 @@ My experience in business analysis and frontend development helps me align techn
 
 ---
 
-📫 **Let's connect:** [LinkedIn](https://www.linkedin.com/in/rustam-sagaddinov)  
+📫 **Let's connect:** [LinkedIn](https://www.linkedin.com/in/rustam-lee/)  
 
 ---
