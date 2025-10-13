@@ -13,7 +13,7 @@ My experience in business analysis and frontend development helps me align techn
 ---
 
 📫 **Let's connect:** [LinkedIn](https://www.linkedin.com/in/rustam-lee/)  
-📫 **Portfolio:** [LinkedIn](https://rustamlee.github.io/portfolio/)  
+🚀 **Portfolio:** [My site](https://rustamlee.github.io/portfolio/)  
 
 
 ---
